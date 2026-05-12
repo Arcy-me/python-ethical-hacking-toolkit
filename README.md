@@ -92,4 +92,4 @@ Do not use these tools on systems or networks without proper authorization.
 ## Author
 
 **Harshil Nayak**  
-Cybersecurity Student • Python Developer • Security Enthusiast
+Cybersecurity Security Enthusiast • Security Researcher
